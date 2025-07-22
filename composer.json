@@ -2,7 +2,7 @@
     "name": "camilord/php-cors",
     "description": "Cross-origin resource sharing library for the Symfony HttpFoundation",
     "keywords": ["cors", "symfony", "laravel"],
-    "homepage": "https://github.com/fruitcake/php-cors",
+    "homepage": "https://github.com/camilord/php-cors",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0|^8.1|^8.2|^8.3",
+        "php": "^7.4|^8.0|^8.1|^8.2|^8.3|^8.4",
         "symfony/http-foundation": "^4.4|^5.4|^6|^7"
     },
     "require-dev": {
